@@ -55,9 +55,6 @@ The Point class allows the entire game and its objects to be referenced by (X,Y)
 <i>FindPoint.java</i><br>
 Common FindPoint interface with contains() method. Implemented in Snake class. Used to check if point contains a specific object.
 
-<i>Direction.java</i><br>
-Direction Enum that hold various hard coded values for direction of Snake movement.  Uses NORTH(0, -1), SOUTH(0, 1), EAST(1, 0), WEST(-1, 0), NO_DIRECTION(0,0). Takes in (X,Y) as constructor parameters.
-
 <i>GameManager.java</i><br>
 The GameManager class handles the snake, wall, and food book-keeping. Takes in a text file as a constructor. Handles parsing of text file and conversion of numbers by storing values in a ArrayList to create representation of board. Contains methods that generate food, control snake, and update board state. 
 
