@@ -54,10 +54,8 @@ public class Point {
     /**
      * Constructor that takes in x/y coordinates to build a Point in the game
      * 
-     * @param x
-     *            coordinate
-     * @param y
-     *            coordinate
+     * @param x coordinate
+     * @param y coordinate
      * 
      */
     public Point(int x, int y) {
@@ -86,8 +84,7 @@ public class Point {
     /**
      * Check if Point equals a specific object by overriding equals method
      * 
-     * @param general
-     *            object (o)
+     * @param general object (o)
      * @return boolean false/true if point equals an object
      */
     @Override
