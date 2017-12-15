@@ -62,6 +62,7 @@ Direction Enum that hold various hard coded values for direction of Snake moveme
 The GameManager class handles the snake, wall, and food book-keeping. Takes in a text file as a constructor. Handles parsing of text file and conversion of numbers by storing values in a ArrayList to create representation of board. Contains methods that generate food, control snake, and update board state. 
 
 <i>GameManagerTester.java</i><br>
+The GameManagerTester class checks Snake game functionality. Loops through hard-coded values to move snake and utilizes methods in GameManager to print out string representation of board and its objects contained within.
 
 <h4>ALGORITHM DETAILS:</h4>
 
