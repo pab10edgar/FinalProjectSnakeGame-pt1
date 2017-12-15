@@ -28,6 +28,7 @@ snake's ever-growing body. The length of the snake increases each time food is c
 <h3>REQUIREMENTS</h3>
 ——————————————————
 <br> Wall configuration file - maze-simple.txt and maze-cross.txt included within repository.
+<br> tester-transcript.txt displays example output of program 
 
 <h3>GAME INFORMATION</h3>
 ——————————————————
