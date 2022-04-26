@@ -1,6 +1,6 @@
-<h2> CS-251 "Snake Game" Final Project: Part 1 </h2>
+<h2>"Snake Game" Final Project: Part 1 </h2>
 
-<b>**The classes contained within this repository are the work of <i>Pablo Edgar</i> and are for reference only. </b>
+<b>**The code contained within this repository are the work of <i>Pablo Edgar</i> and is for reference only. </b>
 
 <h3>CONTENTS OF THIS FILE</h3>
 —————————————————
@@ -17,7 +17,7 @@
 
 <h3>INTRODUCTION</h3> 
 ——————————————————
-<br>Part 1 of Final Project for CS 251 - Runs a Snake Game with hard-coded movment values for testing purposes. 
+<br>Runs a Snake Game with hard-coded movment values for testing purposes. 
 Proceeds to print out a string representation of a gameboard and various snake objects with several test cases 
 to show functionality.
 
